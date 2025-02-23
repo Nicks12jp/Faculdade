@@ -1,1 +1,1 @@
-Esse repositorio é focado para mostrar os trabalhos feitos na faculdade.
+Esse prototipo de site foi feito em grupo com o intuito de aprendermos um pouco mais sobre PHP/SESSION.
