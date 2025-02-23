@@ -1,2 +1,1 @@
-# Faculdade
-Projetos feitos na faculdade
+Esse repositorio é focado para mostrar os trabalhos feitos na faculdade.
